@@ -1,2 +1,0 @@
-webpackJsonp([6],{DLHE:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"agreement"},[e("h2",{staticClass:"title"},[this._v("包大师用户协议")])])}]};var i=n("VU/8")({},s,!1,function(t){n("fp1Z")},null,null);e.default=i.exports},fp1Z:function(t,e){}});
-//# sourceMappingURL=6.de1656ca0326bb4ae9e3.js.map
